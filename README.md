@@ -212,5 +212,5 @@ For questions or feedback, please contact:
     GitHub: [Your GitHub Profile]
 
 This README provides a professional and comprehensive overview of your project, highlighting its AI-driven capabilities and user-friendly interface. Let me know if you need further refinements!
-New chat
+
 
