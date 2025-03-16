@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+matplotlib
+boto3 
+python-dotenv
+streamlit-mic-recorder
+websockets 
+asyncio 
+portaudio19-dev
+
